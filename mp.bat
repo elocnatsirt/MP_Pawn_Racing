@@ -1,4 +1,4 @@
-START F:\Engines\Unreal\UE_4.25\Engine\Binaries\Win64\UE4Editor.exe F:\GameDev\Unreal\MP_Pawn_Racing\MP_Pawn_Racing.uproject /Game/StarterContent/Maps/Minimal_Default -server -game -log
+START F:\Engines\Unreal\UE_4.25\Engine\Binaries\Win64\UE4Editor.exe F:\GameDev\Unreal\MP_Pawn_Racing\MP_Pawn_Racing.uproject /Game/maps/da_track -server -game -log
 
 TIMEOUT 5
 
