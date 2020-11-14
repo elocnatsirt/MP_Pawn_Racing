@@ -2,6 +2,8 @@
 
 > A prototype showcasing working multiplayer racing with custom raycast physics based vehicle pawns in UE4.
 
+Gameplay clip: https://i.imgur.com/r3wbRZk.mp4
+
 ## Synopsis
 
 This project encapsulates the basics of a multiplayer capable racing game built in UE4 using custom raycast physics based pawns with substepping.
@@ -12,8 +14,6 @@ Features:
 * Basic main menu/pause menu/server browser/HUD
 * Custom hover vehicle using raycasts (with substepping via MMT_Plugin)
 * Coded entirely in blueprints (with decent code comment coverage)
-
-<br/>
 
 #### Controls
 
@@ -31,19 +31,19 @@ Features:
 
 #### Referenced/Integrated Third Party Projects
 
-* **Mutiplayer Shootout** - https://docs.unrealengine.com/en-US/Resources/Showcases/BlueprintMultiplayer/index.html
-* **MMT_Plugin** - https://github.com/BoredEngineer/MMT_Plugin
+* *Mutiplayer Shootout* - https://docs.unrealengine.com/en-US/Resources/Showcases/BlueprintMultiplayer/index.html
+* *MMT_Plugin* - https://github.com/BoredEngineer/MMT_Plugin
 
 <br/>
 
 ### Connect
 ---
 
-<a href="https://elocnat.itch.io"><img src="https://i.imgur.com/s5iagnG.png" title="Play my games on https://elocnat.itch.io" alt="elocnat logo" width="48" height="48"></a> **Connect with me** to keep up with my current projects. **Help me out by following me and starring/sharing my work!**
+<a href="https://elocnat.itch.io"><img src="https://i.imgur.com/s5iagnG.png" title="Play my games on https://elocnat.itch.io" alt="elocnat logo" width="48" height="48"></a> **Connect with me** to keep up with my current projects. **Help me out by following me & sharing my work!**
 
+- **Visit my website** <a href="https://elocnat.com" target="_blank">(`elocnat.com`)</a> to browse my full portfolio!
 - **Follow me** and **play my games** at <a href="https://elocnat.itch.io" target="_blank">`elocnat.itch.io`</a>
 - **Follow me** on Twitter at <a href="https://twitter.com/elocnat" target="_blank">`@elocnat`</a>
-  - **Tweet** <a href="https://twitter.com/elocnat" target="_blank">`@elocnat`</a> with the hashtag <a href="https://twitter.com/hashtag/OffKillter?f=live" target="_blank">#OffKillter</a> if you have feedback on the project!
 - **Follow me** on GitHub at <a href="https://github.com/elocnatsirt" target="_blank">`@elocnatsirt`</a>
   - **Star** <a href="https://github.com/elocnatsirt/MP_Pawn_Racing" target="_blank">this project</a>!
 
