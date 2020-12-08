@@ -27,7 +27,7 @@ Features:
 
 #### Notes
 
-* Currently force & torque (outside of raycasts) do not have any kind of compensation for substep delta time; as a result clients with low FPS will experience a slow moving vehicle.
+* Physics break down at <20fps.
 
 #### Referenced/Integrated Third Party Projects
 
